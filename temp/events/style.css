@@ -175,7 +175,7 @@ form {
     margin: 0 35px;
 }
 
-form button {
+form btn {
     width: 100%;
     margin-top: 20px;
     height: 60px;
@@ -189,10 +189,7 @@ form button {
     transition: .4s;
 }
 
-form button:hover {
-    box-shadow: 7px 7px 4px rgba(237,28,36,0.8128501400560224);
-    border-radius: 10px;
-}
+
 
 .tab {
     display: none;
@@ -511,4 +508,10 @@ form button:hover {
 .loginBtn {
     background-color: #ED1C24;
     border-radius: 5px;
+}
+
+
+.bttn {
+    margin-left: 80px;
+    text-align: center;
 }
